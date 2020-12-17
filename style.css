@@ -1,1 +1,13 @@
-
+body {
+    background-color: rgb(129, 200, 241);
+}
+h1 {
+    color:navy
+    marging-left 30px;
+}
+p {
+    margin-right: 150px;
+    margin-left: 80px;
+    font-size: 25px;
+}
+ 
