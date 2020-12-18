@@ -1,13 +1,33 @@
 body {
+
     background-color: rgb(129, 200, 241);
 }
 h1 {
-    color:navy
-    marging-left 30px;
+    background-color:rebeccapurple;
+    color: white; 
+    margin: 30px 25px;
+    text-align: center;
 }
-p {
+h2{
+    background-color: black;
+    color: white;
+    margin: 10px 10px;
+    text-align: center;
+}
+p.description {
+    color: black;
+    text-align: center;
     margin-right: 150px;
     margin-left: 80px;
-    font-size: 25px;
+    font-size: 22px;
 }
- 
+h1:hover{
+    background:wheat
+
+}
+#required{
+   font-size: 50px;
+}
+#id2{
+    font-size: 30px;
+}
